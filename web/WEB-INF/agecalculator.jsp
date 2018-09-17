@@ -14,7 +14,7 @@
     <body>
         <h1>Age Calculator</h1>
         <div>
-            <form method="post" action="AgeCalculatorServlet">
+            <form method="post" action="age">
                 Enter your age: <input type="text" name="age" value="${age}">
             <br>
             <input type="submit" value="Age Next Birthday">
